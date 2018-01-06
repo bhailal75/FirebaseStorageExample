@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "878287278720",
+    "firebase_url": "https://fir-storageexample-8cd3d.firebaseio.com",
+    "project_id": "fir-storageexample-8cd3d",
+    "storage_bucket": "fir-storageexample-8cd3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878287278720:android:eec1367b5c5ad233",
+        "android_client_info": {
+          "package_name": "net.jhon.sparken02.firebasestorageexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878287278720-8lfud3uipr0rdbemgu87vqi9um7ka2s5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.jhon.sparken02.firebasestorageexample",
+            "certificate_hash": "ced5f5dd410bcbbbf7de4c7d2740f490782cf40f"
+          }
+        },
+        {
+          "client_id": "878287278720-bibmbc80o59k8kes24fclf1hephbjs0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-MiiMxU9svKP1-seGCGJMY6BLrPGKRqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878287278720-bibmbc80o59k8kes24fclf1hephbjs0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
